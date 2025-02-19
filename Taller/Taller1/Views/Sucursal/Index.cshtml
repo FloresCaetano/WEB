@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Sucursales";
+}
+
+
+<h1>Sucursales</h1>
+
+<form method="post" id="frmSucursal">
+    <div class="input-group">
+        <label for="frmSucursal" class="form-label">Nombre:</label>
+        <input type="text" name="nombre" class="form-control" id="frmSucursal" placeholder="medicamento">
+        <input type="text" name="direccion" class="form-control" id="frmSucursal" placeholder="direccion">
+    </div>
+        <button type="button" onclick="buscarSucursal()" class="btn btn-primary">Buscar</button>
+        <button type="button" onclick="limpiarSucursal()" class="btn btn-primary">Limpiar</button>
+</form>
+
+
+<br />
+
+<div id="divTable">
+</div>
+
+
+
+<script src="~/js/queries.js"></script>
+<script src="~/js/Sucursales.js"></script>

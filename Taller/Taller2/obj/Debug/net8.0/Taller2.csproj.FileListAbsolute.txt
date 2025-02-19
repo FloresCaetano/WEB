@@ -1,0 +1,12 @@
+C:\Users\Caetano Flores\Documents\4to SEMESTRE\Web\Web4to\2DOPARCIAL\c#\Taller1\Taller2\bin\Debug\net8.0\Taller2.deps.json
+C:\Users\Caetano Flores\Documents\4to SEMESTRE\Web\Web4to\2DOPARCIAL\c#\Taller1\Taller2\bin\Debug\net8.0\Taller2.dll
+C:\Users\Caetano Flores\Documents\4to SEMESTRE\Web\Web4to\2DOPARCIAL\c#\Taller1\Taller2\bin\Debug\net8.0\Taller2.pdb
+C:\Users\Caetano Flores\Documents\4to SEMESTRE\Web\Web4to\2DOPARCIAL\c#\Taller1\Taller2\obj\Debug\net8.0\Taller2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caetano Flores\Documents\4to SEMESTRE\Web\Web4to\2DOPARCIAL\c#\Taller1\Taller2\obj\Debug\net8.0\Taller2.AssemblyInfoInputs.cache
+C:\Users\Caetano Flores\Documents\4to SEMESTRE\Web\Web4to\2DOPARCIAL\c#\Taller1\Taller2\obj\Debug\net8.0\Taller2.AssemblyInfo.cs
+C:\Users\Caetano Flores\Documents\4to SEMESTRE\Web\Web4to\2DOPARCIAL\c#\Taller1\Taller2\obj\Debug\net8.0\Taller2.csproj.CoreCompileInputs.cache
+C:\Users\Caetano Flores\Documents\4to SEMESTRE\Web\Web4to\2DOPARCIAL\c#\Taller1\Taller2\obj\Debug\net8.0\Taller2.sourcelink.json
+C:\Users\Caetano Flores\Documents\4to SEMESTRE\Web\Web4to\2DOPARCIAL\c#\Taller1\Taller2\obj\Debug\net8.0\Taller2.dll
+C:\Users\Caetano Flores\Documents\4to SEMESTRE\Web\Web4to\2DOPARCIAL\c#\Taller1\Taller2\obj\Debug\net8.0\refint\Taller2.dll
+C:\Users\Caetano Flores\Documents\4to SEMESTRE\Web\Web4to\2DOPARCIAL\c#\Taller1\Taller2\obj\Debug\net8.0\Taller2.pdb
+C:\Users\Caetano Flores\Documents\4to SEMESTRE\Web\Web4to\2DOPARCIAL\c#\Taller1\Taller2\obj\Debug\net8.0\ref\Taller2.dll

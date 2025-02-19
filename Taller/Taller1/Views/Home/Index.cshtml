@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+
+<h1>Tipo Medicamento</h1>
+
+<div class="mb-3">
+    <label for="txtNombre" class="form-label">Nombre:</label>
+    <input type="text" onkeyup="filtrarTipoMedicamento()" class="form-control" id="txtNombre" placeholder="medicamento">
+</div>
+@* <div class="col-12">
+    <button onclick="buscarTipoMedicamento()" class="btn btn-primary" type="button">Buscar</button>
+</div> *@
+
+<div id="divTable">
+
+</div>
+
+<script src="~/js/tipoMedicamento.js"></script>
+<script src="~/js/queries.js"></script>
