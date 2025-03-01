@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaDatos\\CapaDatos.csproj": {}
+    "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaDatos\\CapaDatos.csproj": {}
   },
   "projects": {
-    "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaDatos\\CapaDatos.csproj": {
+    "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaDatos\\CapaDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaDatos\\CapaDatos.csproj",
+        "projectUniqueName": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaDatos\\CapaDatos.csproj",
         "projectName": "CapaDatos",
-        "projectPath": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaDatos\\CapaDatos.csproj",
+        "projectPath": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaDatos\\CapaDatos.csproj",
         "packagesPath": "C:\\Users\\caeta\\.nuget\\packages\\",
-        "outputPath": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaDatos\\obj\\",
+        "outputPath": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaDatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caeta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller2\\CapaEntidad.csproj": {
-                "projectPath": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller2\\CapaEntidad.csproj"
+              "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller2\\CapaEntidad.csproj": {
+                "projectPath": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller2\\CapaEntidad.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller2\\CapaEntidad.csproj": {
+    "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller2\\CapaEntidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller2\\CapaEntidad.csproj",
+        "projectUniqueName": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller2\\CapaEntidad.csproj",
         "projectName": "CapaEntidad",
-        "projectPath": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller2\\CapaEntidad.csproj",
+        "projectPath": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller2\\CapaEntidad.csproj",
         "packagesPath": "C:\\Users\\caeta\\.nuget\\packages\\",
-        "outputPath": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller2\\obj\\",
+        "outputPath": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caeta\\AppData\\Roaming\\NuGet\\NuGet.Config",

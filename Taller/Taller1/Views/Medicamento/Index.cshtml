@@ -6,5 +6,93 @@
 
 <h1>Medicamento</h1>
 
-<script src="~/js/queries.js"></script>
+
+
+
+<div class="modal fade" id="operacionesModal" tabindex="-1" aria-labelledby="modalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalLabel">Formulario de Laboratorio</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+            </div>
+            <div class="modal-body">
+                <form id="frmOperaciones">
+                    <div class="mb-3">
+                        <label for="idMedicamento" class="form-label">ID Medicamento</label>
+                        <input type="text" class="form-control" name="idMedicamento" id="frmOperaciones" value="0" readonly>
+                    </div>
+                    <div class="mb-3">
+                        <label for="codigo" class="form-label">Codigo</label>
+                        <input type="text" class="form-control" name="codigo" id="frmOperaciones" value="">
+                    </div>
+                    <div class="mb-3">
+                        <label for="nombre" class="form-label">Nombre</label>
+                        <input type="text" class="form-control" name="nombre" id="frmOperaciones" value=" ">
+                    </div>
+                    <div class="mb-3">
+                        <label for="idLab" class="form-label">Id Lab</label>
+                        <input type="text" class="form-control" name="idLab" id="frmOperaciones" value=" ">
+                    </div>
+                    <div class="mb-3">
+                        <label for="idTipoMed" class="form-label">id Tipo med</label>
+                        <input type="text" class="form-control" name="idTipoMed" id="frmOperaciones" value=" ">
+                    </div>
+                    <div class="mb-3">
+                        <label for="uso" class="form-label">Uso</label>
+                        <input type="tel" class="form-control" name="uso" id="frmOperaciones" value=" ">
+                    </div><div class="mb-3">
+                        <label for="contenido" class="form-label">contenido</label>
+                        <input type="tel" class="form-control" name="contenido" id="frmOperaciones" value=" ">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" onclick="guardarMedicamento()" data-bs-dismiss="modal" class="btn btn-success">Enviar</button>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Salir</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<fieldset class="p-4 border rounded-3">
+    <legend class="fs-5 fw-bold">Filtrar</legend>
+    <form id="frmFiltrar">
+        <div class="mb-3">
+            <label for="idMedicamento" class="form-label">ID Medicamento</label>
+            <input type="text" class="form-control" name="idMedicamento" id="frmOperaciones" value="">
+        </div>
+        <div class="mb-3">
+            <label for="codigo" class="form-label">Codigo</label>
+            <input type="text" class="form-control" name="codigo" id="frmOperaciones" value="">
+        </div>
+        <div class="mb-3">
+            <label for="nombre" class="form-label">Nombre</label>
+            <input type="text" class="form-control" name="nombre" id="frmOperaciones" value=" ">
+        </div>
+        <div class="mb-3">
+            <label for="idLab" class="form-label">Id Lab</label>
+            <input type="text" class="form-control" name="idLab" id="frmOperaciones" value=" ">
+        </div>
+        <div class="mb-3">
+            <label for="idTipoMed" class="form-label">id Tipo med</label>
+            <input type="text" class="form-control" name="idTipoMed" id="frmOperaciones" value=" ">
+        </div>
+        <div class="mb-3">
+            <label for="uso" class="form-label">Uso</label>
+            <input type="tel" class="form-control" name="uso" id="frmOperaciones" value=" ">
+        </div><div class="mb-3">
+            <label for="contenido" class="form-label">contenido</label>
+            <input type="tel" class="form-control" name="contenido" id="frmOperaciones" value=" ">
+        </div>
+    </form>
+    <button type="button" onclick="filtrarMedicamento()" class="btn btn-success">Enviar</button>
+    <button type="button" onclick="limpiarMedicamento()" class="btn btn-secondary">Salir</button>
+</fieldset>
+
+<div id="divTable">
+
+</div>
+
 <script src="~/js/medicamento.js"></script>
+<script src="~/js/queries.js"></script>

@@ -108,5 +108,121 @@ namespace CapaDatos
             return listaSucursales;
 
         }
+
+        public int GuardarSucursal(SucursalCLS sucursalCLS)
+        {
+            List<LaboratorioCLS> listaLaboratorios = null;
+
+            int id = sucursalCLS.idSucursal;
+            string nombre = sucursalCLS.nombre;
+            string direccion = sucursalCLS.direccion;
+
+            if (nombre == null || direccion == null)
+            {
+                return 0;
+            }
+
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+
+                    using (SqlCommand cmd = new SqlCommand("uspGuardarSucursal", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
+
+                        cmd.Parameters.AddWithValue("@iidsucursal", id);
+                        cmd.Parameters.AddWithValue("@nombre", nombre == null ? "" : nombre);
+                        cmd.Parameters.AddWithValue("@direccion", direccion == null ? "" : direccion);
+
+                        int rowsAffected = cmd.ExecuteNonQuery();
+                        return rowsAffected;
+                    }
+                }
+                catch (Exception)
+                {
+                    cn.Close();
+                    return 0;
+                    throw;
+                }
+            }
+
+        }
+
+
+        public SucursalCLS recuperarSucursal(int id)
+        {
+            SucursalCLS sucursal = new SucursalCLS();
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+
+                    using (SqlCommand cmd = new SqlCommand("" +
+                        "SELECT IIDSUCURSAL, NOMBRE, DIRECCION FROM Sucursal WHERE IIDSUCURSAL = @id;", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.Text;
+
+                        cmd.Parameters.AddWithValue("@id", id);
+
+                        SqlDataReader dr = cmd.ExecuteReader();
+
+                        if (dr != null)
+                        {
+                            while (dr.Read())
+                            {
+                                sucursal.idSucursal = dr.GetInt32(0);
+                                sucursal.nombre = dr.GetString(1);
+                                sucursal.direccion = dr.GetString(2);
+
+                            }
+
+                        }
+                    }
+                }
+                catch (Exception)
+                {
+                    cn.Close();
+                    sucursal = null;
+                    throw;
+                }
+
+                return sucursal;
+            }
+
+        }
+
+        public int eliminarSucursal(int id)
+        {
+            LaboratorioCLS listaLaboratorios = null;
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+
+                    using (SqlCommand cmd = new SqlCommand("" +
+                        "DELETE FROM Sucursal WHERE IIDSUCURSAL = @id;", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.Text;
+
+                        cmd.Parameters.AddWithValue("@id", id);
+                        int rowsAffected = cmd.ExecuteNonQuery();
+                        return rowsAffected;
+
+                    }
+                }
+                catch (Exception)
+                {
+                    cn.Close();
+                    return 0;
+                    throw;
+                }
+            }
+
+        }
+
     }
 }

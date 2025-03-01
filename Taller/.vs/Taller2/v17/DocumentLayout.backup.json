@@ -1,134 +1,150 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\",
+  "WorkspaceRootPath": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller1\\views\\sucursal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\views\\sucursal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller1\\wwwroot\\js\\medicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\wwwroot\\js\\medicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller1\\wwwroot\\js\\laboratorio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\wwwroot\\js\\laboratorio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller1\\controllers\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\controllers\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller1\\wwwroot\\js\\queries.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\wwwroot\\js\\queries.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\wwwroot\\js\\queries.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller1\\wwwroot\\js\\sucursales.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\wwwroot\\js\\sucursales.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\capadatos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D6CBC79-64E6-4608-8ABC-3299AF7DD84B}|CapaNegocio\\CapaNegocio.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\capanegocio\\sucursalbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6CBC79-64E6-4608-8ABC-3299AF7DD84B}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\sucursalbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94B8C301-7E24-45B4-83E0-8E9A9D627358}|Taller2\\CapaEntidad.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller2\\sucursalcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94B8C301-7E24-45B4-83E0-8E9A9D627358}|Taller2\\CapaEntidad.csproj|solutionrelative:taller2\\sucursalcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller1\\views\\laboratorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\views\\laboratorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\capadatos\\laboratoriodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\capadatos\\laboratoriodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\laboratoriodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\capadatos\\tipomedicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\tipomedicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\wwwroot\\js\\laboratorio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\wwwroot\\js\\laboratorio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D6CBC79-64E6-4608-8ABC-3299AF7DD84B}|CapaNegocio\\CapaNegocio.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\capanegocio\\tipomedicamentobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6CBC79-64E6-4608-8ABC-3299AF7DD84B}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\tipomedicamentobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94B8C301-7E24-45B4-83E0-8E9A9D627358}|Taller2\\CapaEntidad.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller2\\capaentidad.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{94B8C301-7E24-45B4-83E0-8E9A9D627358}|Taller2\\CapaEntidad.csproj|solutionrelative:taller2\\capaentidad.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller1\\wwwroot\\js\\tipomedicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\wwwroot\\js\\tipomedicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\wwwroot\\js\\tipomedicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\wwwroot\\js\\sucursales.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\wwwroot\\js\\sucursales.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\wwwroot\\js\\medicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\wwwroot\\js\\medicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller1\\controllers\\laboratoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\controllers\\laboratoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D6CBC79-64E6-4608-8ABC-3299AF7DD84B}|CapaNegocio\\CapaNegocio.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\capanegocio\\laboratoriobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D6CBC79-64E6-4608-8ABC-3299AF7DD84B}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\laboratoriobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94B8C301-7E24-45B4-83E0-8E9A9D627358}|Taller2\\CapaEntidad.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller2\\laboratoriocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94B8C301-7E24-45B4-83E0-8E9A9D627358}|Taller2\\CapaEntidad.csproj|solutionrelative:taller2\\laboratoriocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94B8C301-7E24-45B4-83E0-8E9A9D627358}|Taller2\\CapaEntidad.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller2\\tipomedicamentocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94B8C301-7E24-45B4-83E0-8E9A9D627358}|Taller2\\CapaEntidad.csproj|solutionrelative:taller2\\tipomedicamentocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller1\\controllers\\tipomedicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\controllers\\tipomedicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller1\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\capadatos\\cadenadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cadenadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D6CBC79-64E6-4608-8ABC-3299AF7DD84B}|CapaNegocio\\CapaNegocio.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\capanegocio\\capanegocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9D6CBC79-64E6-4608-8ABC-3299AF7DD84B}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\capanegocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\capadatos\\capadatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\capadatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller1\\controllers\\medicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\controllers\\medicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\views\\sucursal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\views\\sucursal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller1\\views\\medicamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\views\\laboratorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\views\\laboratorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\capadatos\\tipomedicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\tipomedicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\controllers\\tipomedicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\controllers\\tipomedicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\views\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\views\\medicamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\views\\medicamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\taller1\\taller1\\views\\tipomedicamento\\sinmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\views\\tipomedicamento\\sinmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\controllers\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\controllers\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B8C301-7E24-45B4-83E0-8E9A9D627358}|Taller2\\CapaEntidad.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller2\\sucursalcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B8C301-7E24-45B4-83E0-8E9A9D627358}|Taller2\\CapaEntidad.csproj|solutionrelative:taller2\\sucursalcls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\capadatos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\controllers\\laboratoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\controllers\\laboratoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B8C301-7E24-45B4-83E0-8E9A9D627358}|Taller2\\CapaEntidad.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller2\\medicamentocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B8C301-7E24-45B4-83E0-8E9A9D627358}|Taller2\\CapaEntidad.csproj|solutionrelative:taller2\\medicamentocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\capadatos\\medicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\medicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\controllers\\medicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\controllers\\medicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B8C301-7E24-45B4-83E0-8E9A9D627358}|Taller2\\CapaEntidad.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller2\\laboratoriocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B8C301-7E24-45B4-83E0-8E9A9D627358}|Taller2\\CapaEntidad.csproj|solutionrelative:taller2\\laboratoriocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B8C301-7E24-45B4-83E0-8E9A9D627358}|Taller2\\CapaEntidad.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller2\\tipomedicamentocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B8C301-7E24-45B4-83E0-8E9A9D627358}|Taller2\\CapaEntidad.csproj|solutionrelative:taller2\\tipomedicamentocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6CBC79-64E6-4608-8ABC-3299AF7DD84B}|CapaNegocio\\CapaNegocio.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\capanegocio\\laboratoriobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6CBC79-64E6-4608-8ABC-3299AF7DD84B}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\laboratoriobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6CBC79-64E6-4608-8ABC-3299AF7DD84B}|CapaNegocio\\CapaNegocio.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\capanegocio\\tipomedicamentobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6CBC79-64E6-4608-8ABC-3299AF7DD84B}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\tipomedicamentobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6CBC79-64E6-4608-8ABC-3299AF7DD84B}|CapaNegocio\\CapaNegocio.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\capanegocio\\sucursalbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6CBC79-64E6-4608-8ABC-3299AF7DD84B}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\sucursalbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\views\\tipomedicamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\views\\tipomedicamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B8C301-7E24-45B4-83E0-8E9A9D627358}|Taller2\\CapaEntidad.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller2\\capaentidad.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94B8C301-7E24-45B4-83E0-8E9A9D627358}|Taller2\\CapaEntidad.csproj|solutionrelative:taller2\\capaentidad.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\capadatos\\cadenadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cadenadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6CBC79-64E6-4608-8ABC-3299AF7DD84B}|CapaNegocio\\CapaNegocio.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\capanegocio\\capanegocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D6CBC79-64E6-4608-8ABC-3299AF7DD84B}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\capanegocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\capadatos\\capadatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80E978AC-88EC-41B0-9DC3-8C6BD9F872F8}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\capadatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|c:\\4tos\\web\\pruebafinal\\web\\taller\\taller1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2E5DC8A-449B-41CD-8224-42DEC838C9EB}|Taller1\\Taller1.csproj|solutionrelative:taller1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,7 +154,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -146,49 +162,123 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
+              "Title": "favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "Taller1\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\wwwroot\\favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "Taller1\\wwwroot\\favicon.ico -  [English (United States)] - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-02-28T16:30:19.354Z",
+              "EditorCaption": " -  [English (United States)] - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "queries.js",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\wwwroot\\js\\queries.js",
+              "RelativeDocumentMoniker": "Taller1\\wwwroot\\js\\queries.js",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\wwwroot\\js\\queries.js",
+              "RelativeToolTip": "Taller1\\wwwroot\\js\\queries.js",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAiwI8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-28T15:04:42.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Taller1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Taller1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-28T02:42:55.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MedicamentoDAL.cs",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaDatos\\MedicamentoDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\MedicamentoDAL.cs",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaDatos\\MedicamentoDAL.cs",
+              "RelativeToolTip": "CapaDatos\\MedicamentoDAL.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAMwG0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T01:13:58.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MedicamentoCLS.cs",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller2\\MedicamentoCLS.cs",
+              "RelativeDocumentMoniker": "Taller2\\MedicamentoCLS.cs",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller2\\MedicamentoCLS.cs",
+              "RelativeToolTip": "Taller2\\MedicamentoCLS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T01:08:53.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Views\\TipoMedicamento\\Index.cshtml",
+              "RelativeDocumentMoniker": "Taller1\\Views\\TipoMedicamento\\Index.cshtml",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Views\\TipoMedicamento\\Index.cshtml",
+              "RelativeToolTip": "Taller1\\Views\\TipoMedicamento\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T16:09:50.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "laboratorio.js",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\wwwroot\\js\\laboratorio.js",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\wwwroot\\js\\laboratorio.js",
               "RelativeDocumentMoniker": "Taller1\\wwwroot\\js\\laboratorio.js",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\wwwroot\\js\\laboratorio.js",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\wwwroot\\js\\laboratorio.js",
               "RelativeToolTip": "Taller1\\wwwroot\\js\\laboratorio.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwEAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-02-17T17:27:25.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Views\\Laboratorio\\Index.cshtml",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Views\\Laboratorio\\Index.cshtml",
               "RelativeDocumentMoniker": "Taller1\\Views\\Laboratorio\\Index.cshtml",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Views\\Laboratorio\\Index.cshtml",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Views\\Laboratorio\\Index.cshtml",
               "RelativeToolTip": "Taller1\\Views\\Laboratorio\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBEAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-17T17:25:17.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "LaboratorioController.cs",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Controllers\\LaboratorioController.cs",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Controllers\\LaboratorioController.cs",
               "RelativeDocumentMoniker": "Taller1\\Controllers\\LaboratorioController.cs",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Controllers\\LaboratorioController.cs",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Controllers\\LaboratorioController.cs",
               "RelativeToolTip": "Taller1\\Controllers\\LaboratorioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T17:24:32.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "LaboratorioBL.cs",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaNegocio\\LaboratorioBL.cs",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaNegocio\\LaboratorioBL.cs",
               "RelativeDocumentMoniker": "CapaNegocio\\LaboratorioBL.cs",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaNegocio\\LaboratorioBL.cs",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaNegocio\\LaboratorioBL.cs",
               "RelativeToolTip": "CapaNegocio\\LaboratorioBL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -196,36 +286,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "LaboratorioDAL.cs",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaDatos\\LaboratorioDAL.cs",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaDatos\\LaboratorioDAL.cs",
               "RelativeDocumentMoniker": "CapaDatos\\LaboratorioDAL.cs",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaDatos\\LaboratorioDAL.cs",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaDatos\\LaboratorioDAL.cs",
               "RelativeToolTip": "CapaDatos\\LaboratorioDAL.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwDAAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAkwKEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T17:16:00.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "LaboratorioCLS.cs",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller2\\LaboratorioCLS.cs",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller2\\LaboratorioCLS.cs",
               "RelativeDocumentMoniker": "Taller2\\LaboratorioCLS.cs",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller2\\LaboratorioCLS.cs",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller2\\LaboratorioCLS.cs",
               "RelativeToolTip": "Taller2\\LaboratorioCLS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T17:14:54.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "CadenaDAL.cs",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaDatos\\CadenaDAL.cs",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaDatos\\CadenaDAL.cs",
               "RelativeDocumentMoniker": "CapaDatos\\CadenaDAL.cs",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaDatos\\CadenaDAL.cs",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaDatos\\CadenaDAL.cs",
               "RelativeToolTip": "CapaDatos\\CadenaDAL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -235,87 +325,83 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Sucursales.js",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\wwwroot\\js\\Sucursales.js",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\wwwroot\\js\\Sucursales.js",
               "RelativeDocumentMoniker": "Taller1\\wwwroot\\js\\Sucursales.js",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\wwwroot\\js\\Sucursales.js",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\wwwroot\\js\\Sucursales.js",
               "RelativeToolTip": "Taller1\\wwwroot\\js\\Sucursales.js",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-02-14T16:14:47.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Views\\Sucursal\\Index.cshtml",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Views\\Sucursal\\Index.cshtml",
               "RelativeDocumentMoniker": "Taller1\\Views\\Sucursal\\Index.cshtml",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Views\\Sucursal\\Index.cshtml",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Views\\Sucursal\\Index.cshtml",
               "RelativeToolTip": "Taller1\\Views\\Sucursal\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-14T16:14:07.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "Sucursal.cs",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Controllers\\Sucursal.cs",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Controllers\\Sucursal.cs",
               "RelativeDocumentMoniker": "Taller1\\Controllers\\Sucursal.cs",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Controllers\\Sucursal.cs",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Controllers\\Sucursal.cs",
               "RelativeToolTip": "Taller1\\Controllers\\Sucursal.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T16:13:23.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T16:13:23.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 28,
               "Title": "SucursalBL.cs",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaNegocio\\SucursalBL.cs",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaNegocio\\SucursalBL.cs",
               "RelativeDocumentMoniker": "CapaNegocio\\SucursalBL.cs",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaNegocio\\SucursalBL.cs",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaNegocio\\SucursalBL.cs",
               "RelativeToolTip": "CapaNegocio\\SucursalBL.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAhwBYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T16:11:13.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T16:11:13.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "SucursalCLS.cs",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller2\\SucursalCLS.cs",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller2\\SucursalCLS.cs",
               "RelativeDocumentMoniker": "Taller2\\SucursalCLS.cs",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller2\\SucursalCLS.cs",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller2\\SucursalCLS.cs",
               "RelativeToolTip": "Taller2\\SucursalCLS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T16:10:32.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T16:10:32.13Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 19,
               "Title": "SucursalDAL.cs",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaDatos\\SucursalDAL.cs",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaDatos\\SucursalDAL.cs",
               "RelativeDocumentMoniker": "CapaDatos\\SucursalDAL.cs",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaDatos\\SucursalDAL.cs",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaDatos\\SucursalDAL.cs",
               "RelativeToolTip": "CapaDatos\\SucursalDAL.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAYwE0AAAB4AAAAAAAAAA==",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAiwLEAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T16:10:02.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T16:10:02.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Views\\Index.cshtml",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Views\\Index.cshtml",
               "RelativeDocumentMoniker": "Taller1\\Views\\Index.cshtml",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Views\\Index.cshtml",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Views\\Index.cshtml",
               "RelativeToolTip": "Taller1\\Views\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -323,11 +409,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\appsettings.json",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\appsettings.json",
               "RelativeDocumentMoniker": "Taller1\\appsettings.json",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\appsettings.json",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\appsettings.json",
               "RelativeToolTip": "Taller1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -335,112 +421,86 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Taller1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Taller1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCIAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T17:25:22.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T17:25:22.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Views\\Medicamento\\Index.cshtml",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Views\\Medicamento\\Index.cshtml",
               "RelativeDocumentMoniker": "Taller1\\Views\\Medicamento\\Index.cshtml",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Views\\Medicamento\\Index.cshtml",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Views\\Medicamento\\Index.cshtml",
               "RelativeToolTip": "Taller1\\Views\\Medicamento\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowFoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-05T17:11:22.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "medicamento.js",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\wwwroot\\js\\medicamento.js",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\wwwroot\\js\\medicamento.js",
               "RelativeDocumentMoniker": "Taller1\\wwwroot\\js\\medicamento.js",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\wwwroot\\js\\medicamento.js",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\wwwroot\\js\\medicamento.js",
               "RelativeToolTip": "Taller1\\wwwroot\\js\\medicamento.js",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-02-05T17:06:22.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 23,
               "Title": "MedicamentoController.cs",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Controllers\\MedicamentoController.cs",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Controllers\\MedicamentoController.cs",
               "RelativeDocumentMoniker": "Taller1\\Controllers\\MedicamentoController.cs",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Controllers\\MedicamentoController.cs",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Controllers\\MedicamentoController.cs",
               "RelativeToolTip": "Taller1\\Controllers\\MedicamentoController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T17:04:32.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "queries.js",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\wwwroot\\js\\queries.js",
-              "RelativeDocumentMoniker": "Taller1\\wwwroot\\js\\queries.js",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\wwwroot\\js\\queries.js",
-              "RelativeToolTip": "Taller1\\wwwroot\\js\\queries.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-05T16:46:00.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Taller1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Taller1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-05T16:37:33.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "SinMenu.cshtml",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Views\\TipoMedicamento\\SinMenu.cshtml",
-              "RelativeDocumentMoniker": "Taller1\\Views\\TipoMedicamento\\SinMenu.cshtml",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Views\\TipoMedicamento\\SinMenu.cshtml",
-              "RelativeToolTip": "Taller1\\Views\\TipoMedicamento\\SinMenu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-05T16:36:49.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 4,
               "Title": "tipoMedicamento.js",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\wwwroot\\js\\tipoMedicamento.js",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\wwwroot\\js\\tipoMedicamento.js",
               "RelativeDocumentMoniker": "Taller1\\wwwroot\\js\\tipoMedicamento.js",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\wwwroot\\js\\tipoMedicamento.js",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\wwwroot\\js\\tipoMedicamento.js",
               "RelativeToolTip": "Taller1\\wwwroot\\js\\tipoMedicamento.js",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-02-05T16:11:48.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Program.cs",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Program.cs",
               "RelativeDocumentMoniker": "Taller1\\Program.cs",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Program.cs",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Program.cs",
               "RelativeToolTip": "Taller1\\Program.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAWwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -448,100 +508,96 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Taller1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Taller1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T16:08:46.481Z"
+              "WhenOpened": "2025-02-05T16:08:46.481Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "CapaNegocio.csproj",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaNegocio\\CapaNegocio.csproj",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaNegocio\\CapaNegocio.csproj",
               "RelativeDocumentMoniker": "CapaNegocio\\CapaNegocio.csproj",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaNegocio\\CapaNegocio.csproj",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaNegocio\\CapaNegocio.csproj",
               "RelativeToolTip": "CapaNegocio\\CapaNegocio.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-03T17:18:26.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T17:18:26.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 30,
               "Title": "CapaEntidad.csproj",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller2\\CapaEntidad.csproj",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller2\\CapaEntidad.csproj",
               "RelativeDocumentMoniker": "Taller2\\CapaEntidad.csproj",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller2\\CapaEntidad.csproj",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller2\\CapaEntidad.csproj",
               "RelativeToolTip": "Taller2\\CapaEntidad.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-03T17:18:21.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T17:18:21.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 13,
               "Title": "TipoMedicamento.cs",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Controllers\\TipoMedicamento.cs",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Controllers\\TipoMedicamento.cs",
               "RelativeDocumentMoniker": "Taller1\\Controllers\\TipoMedicamento.cs",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Controllers\\TipoMedicamento.cs",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Controllers\\TipoMedicamento.cs",
               "RelativeToolTip": "Taller1\\Controllers\\TipoMedicamento.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T17:17:23.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "CapaDatos.csproj",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaDatos\\CapaDatos.csproj",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaDatos\\CapaDatos.csproj",
               "RelativeDocumentMoniker": "CapaDatos\\CapaDatos.csproj",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaDatos\\CapaDatos.csproj",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaDatos\\CapaDatos.csproj",
               "RelativeToolTip": "CapaDatos\\CapaDatos.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-03T17:12:12.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T17:12:12.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "TipoMedicamentoBL.cs",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaNegocio\\TipoMedicamentoBL.cs",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaNegocio\\TipoMedicamentoBL.cs",
               "RelativeDocumentMoniker": "CapaNegocio\\TipoMedicamentoBL.cs",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaNegocio\\TipoMedicamentoBL.cs",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaNegocio\\TipoMedicamentoBL.cs",
               "RelativeToolTip": "CapaNegocio\\TipoMedicamentoBL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T17:08:54.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T17:08:54.228Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "TipoMedicamentoDAL.cs",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaDatos\\TipoMedicamentoDAL.cs",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaDatos\\TipoMedicamentoDAL.cs",
               "RelativeDocumentMoniker": "CapaDatos\\TipoMedicamentoDAL.cs",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaDatos\\TipoMedicamentoDAL.cs",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaDatos\\TipoMedicamentoDAL.cs",
               "RelativeToolTip": "CapaDatos\\TipoMedicamentoDAL.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEcAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAwIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T17:02:39.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T17:02:39.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "TipoMedicamentoCLS.cs",
-              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller2\\TipoMedicamentoCLS.cs",
+              "DocumentMoniker": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller2\\TipoMedicamentoCLS.cs",
               "RelativeDocumentMoniker": "Taller2\\TipoMedicamentoCLS.cs",
-              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller2\\TipoMedicamentoCLS.cs",
+              "ToolTip": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller2\\TipoMedicamentoCLS.cs",
               "RelativeToolTip": "Taller2\\TipoMedicamentoCLS.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

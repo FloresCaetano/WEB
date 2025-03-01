@@ -5,15 +5,56 @@
 
 <h1>Sucursales</h1>
 
-<form method="post" id="frmSucursal">
-    <div class="input-group">
-        <label for="frmSucursal" class="form-label">Nombre:</label>
-        <input type="text" name="nombre" class="form-control" id="frmSucursal" placeholder="medicamento">
-        <input type="text" name="direccion" class="form-control" id="frmSucursal" placeholder="direccion">
+<div class="modal fade" id="operacionesModal" tabindex="-1" aria-labelledby="modalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalLabel">Formulario de Laboratorio</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+            </div>
+            <div class="modal-body">
+                <form id="frmOperaciones">
+                    <div class="mb-3">
+                        <label for="idSucursal" class="form-label">ID Laboratorio</label>
+                        <input type="text" class="form-control" name="idSucursal" id="frmOperaciones" value="0" readonly>
+                    </div>
+                    <div class="mb-3">
+                        <label for="nombre" class="form-label">Nombre</label>
+                        <input type="text" class="form-control" name="nombre" id="frmOperaciones" value=" ">
+                    </div>
+                    <div class="mb-3">
+                        <label for="direccion" class="form-label">Dirección</label>
+                        <input type="text" class="form-control" name="direccion" id="frmOperaciones" value=" ">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" onclick="guardarSucursal()" data-bs-dismiss="modal" class="btn btn-success">Enviar</button>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Salir</button>
+            </div>
+        </div>
     </div>
-        <button type="button" onclick="buscarSucursal()" class="btn btn-primary">Buscar</button>
-        <button type="button" onclick="limpiarSucursal()" class="btn btn-primary">Limpiar</button>
-</form>
+</div>
+
+<fieldset>
+	<legend>Filtrar</legend>
+	<form id="frmFiltrar">
+		<div class="mb-3">
+			<label for="idSucursal" class="form-label">ID Sucursal</label>
+			<input type="text" class="form-control" name="idSucursal" id="frmOperaciones" value="0" readonly>
+		</div>
+		<div class="mb-3">
+			<label for="nombre" class="form-label">Nombre</label>
+			<input type="text" class="form-control" name="nombre" id="frmOperaciones" value="">
+		</div>
+		<div class="mb-3">
+			<label for="direccion" class="form-label">Dirección</label>
+			<input type="text" class="form-control" name="direccion" id="frmOperaciones" value="">
+		</div>
+	</form>
+	<button type="button" onclick="filtrarSucursal()" class="btn btn-success">Filtrar</button>
+	<button type="button" onclick="limpiarSucursal()" class="btn btn-secondary">Salir</button>
+</fieldset>
 
 
 <br />

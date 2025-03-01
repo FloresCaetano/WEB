@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oBEwZd7KF2k=",
+  "dgSpecHash": "eRvrk5eh05k=",
   "success": true,
-  "projectFilePath": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller1\\Taller1.csproj",
+  "projectFilePath": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller1\\Taller1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caeta\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\caeta\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

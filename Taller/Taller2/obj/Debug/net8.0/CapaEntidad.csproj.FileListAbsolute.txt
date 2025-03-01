@@ -21,3 +21,15 @@ C:\4toS\Web\PruebaFinal\Taller1\Taller2\obj\Debug\net8.0\CapaEntidad.dll
 C:\4toS\Web\PruebaFinal\Taller1\Taller2\obj\Debug\net8.0\refint\CapaEntidad.dll
 C:\4toS\Web\PruebaFinal\Taller1\Taller2\obj\Debug\net8.0\CapaEntidad.pdb
 C:\4toS\Web\PruebaFinal\Taller1\Taller2\obj\Debug\net8.0\ref\CapaEntidad.dll
+C:\4toS\Web\PruebaFinal\WEB\Taller\Taller2\bin\Debug\net8.0\CapaEntidad.deps.json
+C:\4toS\Web\PruebaFinal\WEB\Taller\Taller2\bin\Debug\net8.0\CapaEntidad.dll
+C:\4toS\Web\PruebaFinal\WEB\Taller\Taller2\bin\Debug\net8.0\CapaEntidad.pdb
+C:\4toS\Web\PruebaFinal\WEB\Taller\Taller2\obj\Debug\net8.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\4toS\Web\PruebaFinal\WEB\Taller\Taller2\obj\Debug\net8.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\4toS\Web\PruebaFinal\WEB\Taller\Taller2\obj\Debug\net8.0\CapaEntidad.AssemblyInfo.cs
+C:\4toS\Web\PruebaFinal\WEB\Taller\Taller2\obj\Debug\net8.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\4toS\Web\PruebaFinal\WEB\Taller\Taller2\obj\Debug\net8.0\CapaEntidad.sourcelink.json
+C:\4toS\Web\PruebaFinal\WEB\Taller\Taller2\obj\Debug\net8.0\CapaEntidad.dll
+C:\4toS\Web\PruebaFinal\WEB\Taller\Taller2\obj\Debug\net8.0\refint\CapaEntidad.dll
+C:\4toS\Web\PruebaFinal\WEB\Taller\Taller2\obj\Debug\net8.0\CapaEntidad.pdb
+C:\4toS\Web\PruebaFinal\WEB\Taller\Taller2\obj\Debug\net8.0\ref\CapaEntidad.dll

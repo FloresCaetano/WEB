@@ -1,4 +1,5 @@
 ﻿using System.Data.SqlClient;
+using System.Diagnostics.Contracts;
 using CapaEntidad;
 using Microsoft.Extensions.Configuration;
 
@@ -68,11 +69,7 @@ namespace CapaDatos
                     using (SqlCommand cmd = new SqlCommand("uspFiltrarTipoMedicamento", cn))
                     {
                         cmd.CommandType = System.Data.CommandType.StoredProcedure;
-                        if (string.IsNullOrEmpty(nombre))
-                        {
-                            nombre = "";
-                        }
-                        cmd.Parameters.AddWithValue("@nombretipomedicamento", nombre);
+                        cmd.Parameters.AddWithValue("@nombretipomedicamento", nombre == null ? "" : nombre);
 
                         SqlDataReader dr = cmd.ExecuteReader();
 
@@ -103,6 +100,121 @@ namespace CapaDatos
             }
 
             return listaSucursales;
+
+        }
+
+        public int guardarTipoMedicamento(TipoMedicamentoCLS objTipoMedicamento)
+        {
+
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+
+                    using (SqlCommand cmd = new SqlCommand("uspGuardarTipoMedicamento", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                        String nombre = objTipoMedicamento.nombre;
+                        String descripcion = objTipoMedicamento.descripcion;
+                        int id = objTipoMedicamento.idTipoMedicamento;
+
+                        if (nombre == null || descripcion == null)
+                        {
+                            return 0;
+                        }
+
+                        cmd.Parameters.AddWithValue("@nombre", nombre == null ? "" : nombre);
+                        cmd.Parameters.AddWithValue("@id", id);
+                        cmd.Parameters.AddWithValue("@descripcion", descripcion == null ? "" : descripcion);
+
+                        int rowsAffected = cmd.ExecuteNonQuery();
+                        return rowsAffected;
+
+                    }
+                }
+                catch (Exception)
+                {
+                    cn.Close();
+                    throw;
+                }
+            }
+        }
+
+        public TipoMedicamentoCLS recuperarTipoMedicamentos(int id)
+        {
+            TipoMedicamentoCLS tipoMed = null;
+
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+
+                    using (SqlCommand cmd = new SqlCommand("" +
+                        "SELECT IIDTIPOMEDICAMENTO, " +
+                        "NOMBRE, DESCRIPCION FROM TipoMedicamento WHERE BHABILITADO = 1 " +
+                        "and IIDTIPOMEDICAMENTO = @iidtipomedicamento", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.Text;
+
+                        cmd.Parameters.AddWithValue("@iidtipomedicamento", id);
+
+                        SqlDataReader dr = cmd.ExecuteReader();
+
+                        if (dr != null)
+                        {
+                            tipoMed = new TipoMedicamentoCLS();
+                            while (dr.Read())
+                            {
+                                tipoMed = new TipoMedicamentoCLS();
+                                tipoMed.idTipoMedicamento = dr.IsDBNull(0) ? 0 : dr.GetInt32(0);
+                                tipoMed.nombre = dr.IsDBNull(1) ? "" : dr.GetString(1);
+                                tipoMed.descripcion = dr.IsDBNull(2) ? "" : dr.GetString(2);
+
+                            }
+
+                        }
+                    }
+                }
+                catch (Exception)
+                {
+                    cn.Close();
+                    tipoMed = null;
+                    throw;
+                }
+            }
+
+            return tipoMed;
+
+        }
+
+        public int eliminarTipoMedicamento(int id)
+        {
+            using (SqlConnection cn = new SqlConnection(cadenaDato))
+            {
+                try
+                {
+                    cn.Open();
+
+                    using (SqlCommand cmd = new SqlCommand("" +
+						"DELETE FROM TipoMedicamento WHERE IIDTIPOMEDICAMENTO = @id;", cn))
+                    {
+                        cmd.CommandType = System.Data.CommandType.Text;
+
+                        cmd.Parameters.AddWithValue("@id", id);
+                        int rowsAffected = cmd.ExecuteNonQuery();
+                        return rowsAffected;
+
+                    }
+                }
+                catch (Exception)
+                {
+                    cn.Close();
+                    return 0;
+                    throw;
+                }
+            }
 
         }
 

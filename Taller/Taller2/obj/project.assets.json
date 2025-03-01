@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller2\\CapaEntidad.csproj",
+      "projectUniqueName": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller2\\CapaEntidad.csproj",
       "projectName": "CapaEntidad",
-      "projectPath": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller2\\CapaEntidad.csproj",
+      "projectPath": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller2\\CapaEntidad.csproj",
       "packagesPath": "C:\\Users\\caeta\\.nuget\\packages\\",
-      "outputPath": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\Taller2\\obj\\",
+      "outputPath": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\Taller2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\caeta\\AppData\\Roaming\\NuGet\\NuGet.Config",

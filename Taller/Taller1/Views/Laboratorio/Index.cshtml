@@ -4,26 +4,71 @@
 
 <h1>Laboratorios</h1>
 
-<fieldset class="p-4" >
-    <legend>Buscar</legend>
-	<form method="post" id="frmBusqueda">
+<div class="modal fade" id="operacionesModal" tabindex="-1" aria-labelledby="modalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalLabel">Formulario de Laboratorio</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+            </div>
+            <div class="modal-body">
+                <form id="frmOperaciones">
+                    <div class="mb-3">
+                        <label for="idLaboratorio" class="form-label">ID Laboratorio</label>
+                        <input type="text" class="form-control" name="idLaboratorio" id="frmOperaciones" value="0" readonly>
+                    </div>
+                    <div class="mb-3">
+                        <label for="nombre" class="form-label">Nombre</label>
+                        <input type="text" class="form-control" name="nombre" id="frmOperaciones" value=" ">
+                    </div>
+                    <div class="mb-3">
+                        <label for="direccion" class="form-label">Dirección</label>
+                        <input type="text" class="form-control" name="direccion" id="frmOperaciones" value=" ">
+                    </div>
+                    <div class="mb-3">
+                        <label for="personaContacto" class="form-label">Persona de Contacto</label>
+                        <input type="text" class="form-control" name="personaContacto" id="frmOperaciones" value=" ">
+                    </div>
+                    <div class="mb-3">
+                        <label for="numeroContacto" class="form-label">Número de Contacto</label>
+                        <input type="tel" class="form-control" name="numeroContacto" id="frmOperaciones" value=" ">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" onclick="guardarLaboratorio()" data-bs-dismiss="modal" class="btn btn-success">Enviar</button>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Salir</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<fieldset class="p-4 border rounded-3">
+    <legend class="fs-5 fw-bold">Buscar</legend>
+    <form id="frmFiltrar">
         <div class="mb-3">
-            <label for="txtNombre" class="form-label">Nombre</label>
-            <input type="text" class="form-control" id="frmBusqueda" name="nombre" placeholder="Nombre">
+            <label for="idLaboratorio" class="form-label">ID Laboratorio</label>
+            <input type="text" class="form-control" name="idLaboratorio" id="frmOperaciones" value="0" readonly>
         </div>
         <div class="mb-3">
-            <label for="txtDireccion" class="form-label">Dirección</label>
-            <input type="text" class="form-control" id="frmBusqueda" name="direccion" placeholder="Dirección">
+            <label for="nombre" class="form-label">Nombre</label>
+            <input type="text" class="form-control" name="nombre" id="frmOperaciones" value="">
         </div>
         <div class="mb-3">
-            <label for="txtContacto" class="form-label">Contacto</label>
-            <input type="text" class="form-control" id="frmBusqueda" name="personaContacto" placeholder="Contacto">
+            <label for="direccion" class="form-label">Dirección</label>
+            <input type="text" class="form-control" name="direccion" id="frmOperaciones" value="">
         </div>
-        <div class="row-12">
-            <button type="button" onclick="filtrarLaboratorio()" class="btn btn-primary">Buscar</button>
-            <button type="button" onclick="limpiarLaboratorio()" class="btn btn-primary">Limpiar</button>
+        <div class="mb-3">
+            <label for="personaContacto" class="form-label">Persona de Contacto</label>
+            <input type="text" class="form-control" name="personaContacto" id="frmOperaciones" value="">
+        </div>
+        <div class="mb-3">
+            <label for="numeroContacto" class="form-label">Número de Contacto</label>
+            <input type="tel" class="form-control" name="numeroContacto" id="frmOperaciones" value="">
         </div>
     </form>
+    <button type="button" onclick="filtrarLaboratorio()" class="btn btn-success">Filtrar</button>
+    <button type="button" onclick="limpiarLaboratorio()" class="btn btn-secondary">Salir</button>
 </fieldset>
 
 

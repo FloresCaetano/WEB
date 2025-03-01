@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using CapaDatos;
+using CapaEntidad;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Taller1.Controllers
 {
@@ -9,24 +11,29 @@ namespace Taller1.Controllers
             return View();
         }
 
-        public int numeroEntero()
+        public List<MedicamentoCLS> filtrarMedicamento(MedicamentoCLS medicamentoCLS)
         {
-            return 10;
+            MedicamentoDAL obj = new MedicamentoDAL();
+            return obj.FiltrarMedicamento(medicamentoCLS);
         }
 
-        public string saludar()
+        public MedicamentoCLS recuperarMedicamento(int id)
         {
-            return "hola mi hermano";
+            MedicamentoDAL obj = new MedicamentoDAL();
+            return obj.recuperarMedicamento(id);
         }
 
-        public string saludosNombre(string nombre)
+        public int guardarMedicamento(MedicamentoCLS medicamentoCLS)
         {
-            return "Bienvenido " + nombre;
+            MedicamentoDAL obj = new MedicamentoDAL();
+            return obj.guardarMedicamento(medicamentoCLS);
         }
 
-        public string saludosNombreCompleto(string nombre, string apellido)
+        public int eliminarMedicamento(int id)
         {
-            return "Bienvenido " + nombre + " " + apellido;
+            MedicamentoDAL obj = new MedicamentoDAL();
+            return obj.eliminarMedicamento(id);
         }
+
     }
 }

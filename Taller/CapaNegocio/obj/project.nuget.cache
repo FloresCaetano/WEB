@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YZ75nJz9RrI=",
+  "dgSpecHash": "ouerouHKdho=",
   "success": true,
-  "projectFilePath": "C:\\4toS\\Web\\PruebaFinal\\Taller1\\CapaNegocio\\CapaNegocio.csproj",
+  "projectFilePath": "C:\\4toS\\Web\\PruebaFinal\\WEB\\Taller\\CapaNegocio\\CapaNegocio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caeta\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.1\\microsoft.extensions.configuration.9.0.1.nupkg.sha512",
     "C:\\Users\\caeta\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.1\\microsoft.extensions.configuration.abstractions.9.0.1.nupkg.sha512",
